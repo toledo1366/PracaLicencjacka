@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\pracaLic\\mobile\\EmotionDetectionApp\\EmotionDetectionApp.Android\\EmotionDetectionApp.Android.csproj": {}
+  },
+  "projects": {
+    "E:\\pracaLic\\mobile\\EmotionDetectionApp\\EmotionDetectionApp.Android\\EmotionDetectionApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\pracaLic\\mobile\\EmotionDetectionApp\\EmotionDetectionApp.Android\\EmotionDetectionApp.Android.csproj",
+        "projectName": "EmotionDetectionApp.Android",
+        "projectPath": "E:\\pracaLic\\mobile\\EmotionDetectionApp\\EmotionDetectionApp.Android\\EmotionDetectionApp.Android.csproj",
+        "packagesPath": "C:\\Users\\damia\\.nuget\\packages\\",
+        "outputPath": "E:\\pracaLic\\mobile\\EmotionDetectionApp\\EmotionDetectionApp.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\damia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
